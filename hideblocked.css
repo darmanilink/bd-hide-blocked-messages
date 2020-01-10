@@ -1,0 +1,22 @@
+div[class^="da-messageGroupBlocked"], div[class*="messageGroupBlocked-"] {
+display: none;
+height: 0;
+line-height: 0;
+overflow: hidden;
+margin: 0 20px 0 20px;
+border-width: 1px 0 0 0;
+border-color: #3E414A !important;
+}
+div[class^="da-messageGroupBlocked"] + div[class^="da-divider"] {
+display: none;
+height: 0;
+line-height: 0;
+overflow: hidden;
+margin: 0 20px 0 20px;
+border-width: 1px 0 0 0;
+border-color: #3E414A !important;
+}
+div[class^="da-Hidden"]:disabled{
+}
+div[class^="hidden-HHr2R9"]:disabled
+{}
